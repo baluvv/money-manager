@@ -1,0 +1,19 @@
+.transaction-list-item {
+  border: 1px solid #d7dfe9;
+  padding-left: 30px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.three-words {
+  font-size: 13px;
+  color: #7e858e;
+  font-family: 'Roboto';
+  margin-right: 50px;
+}
+.delete-image {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,35 @@
+.balance-item {
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+  width: 28%;
+  border-radius: 10px;
+}
+
+.image {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+.amount-type {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.amount {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.income-item {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+}
+.expenses-item {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+}
