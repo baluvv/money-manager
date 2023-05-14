@@ -6,6 +6,7 @@
   align-items: center;
   padding: 50px;
 }
+
 .profile-container {
   width: 100%;
   background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
@@ -47,6 +48,11 @@
   padding: 20px;
   border-radius: 10px;
 }
+.add-transaction-heading {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 20px;
+}
 .label {
   font-family: 'Roboto';
   color: #7e858e;
@@ -80,6 +86,7 @@
   border-radius: 10px;
 }
 .history-list-container {
+  margin-top: 0px;
   list-style-type: none;
   padding: 0px;
 }
@@ -94,5 +101,6 @@
   font-size: 12px;
   color: #334155;
   font-family: 'Roboto';
-  margin-right: 50px;
+  width: 20%;
+  font-weight: 600;
 }
